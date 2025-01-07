@@ -14,6 +14,10 @@ En este sprint, revisamos conceptos básicos de la programación de pyhon tales 
 ### Sprint 2: Python Basico 2
 
 ### Sprint 3: Procesamiento de datos 1
+Estudiamos la libreria de pandas pasando por funciones como:
+- Lectura de archivos.
+- Agrupaciones.
+- Limpieza de datos (ausentes, duplicados)
 
 ### Sprint 4: Procesamiento de datos 2
 
