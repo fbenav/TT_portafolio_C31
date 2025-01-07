@@ -7,11 +7,14 @@ Portafolio de proyectos realizados durante el bootcamp de analítica de datos de
 En esta sección repasaremos brevemente los contenidos vistos en cada sprint del bootcamp de analitica de datos, con el fin de ilustrar las herramientas y aprendizajes.
 
 ### Sprint 1: Python Basico 1
-En este sprint, revisamos conceptos básicos de la programación de pyhon tales como:
+En este sprint, revisamos conceptos básicos de la programación de python tales como:
 - Tipos de datos
 - Listas simples y anidadas
 
 ### Sprint 2: Python Basico 2
+En este sprint, revisamos conceptos avanzados de la programación en python tales como:
+- Bucles
+- Funciones
 
 ### Sprint 3: Procesamiento de datos 1
 
