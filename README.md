@@ -17,6 +17,10 @@ En este sprint, revisamos conceptos avanzados de la programación en python tale
 - Funciones
 
 ### Sprint 3: Procesamiento de datos 1
+Estudiamos la libreria de pandas pasando por funciones como:
+- Lectura de archivos.
+- Agrupaciones.
+- Limpieza de datos (ausentes, duplicados)
 
 ### Sprint 4: Procesamiento de datos 2
 
