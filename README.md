@@ -1,7 +1,6 @@
 # TT_portafolio_C31
 Portafolio de proyectos realizados durante el bootcamp de analítica de datos de Tripleten LATAM
 
-
 ## Descripción de los contenidos revisados.
 
 En esta sección repasaremos brevemente los contenidos vistos en cada sprint del bootcamp de analitica de datos, con el fin de ilustrar las herramientas y aprendizajes.
@@ -26,5 +25,15 @@ Estudiamos la libreria de pandas pasando por funciones como:
 Se profundiza más en conceptos de pandas, principalmente en gráficos y limpieza de datos orientada a la solución de problemas.
 
 ### Sprint 5: Analisis estadistico de datos
+En este sprint estudiamos conceptos de estadistica basica, distribuciones y test estadisticos, abordamos casos como:
+- Estadistica descriptiva
+- Distribuciones:
+    - Normal
+    - Bernoulli
+    - Binomial
+- Test estadisticos:
+    - T-test
+    - F-test
+    - Z-test
 
 ### Sprint 6: Primer proyecto de cierre
