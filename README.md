@@ -37,3 +37,4 @@ En este sprint estudiamos conceptos de estadistica basica, distribuciones y test
     - Z-test
 
 ### Sprint 6: Primer proyecto de cierre
+Este sprint consiste unicamente en el proyecto integrado, el cual va sobre analisis de ventas de videojuegos.
